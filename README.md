@@ -29,13 +29,7 @@ My main goal is to develop and evaluate various machine learning models, includi
 
 ### Exploratory Data Analysis to discover which features are most predictive of malignant type
 
-
-#### The final selected model will demonstrate how machine learning can be used to accurately predict whether an individual has Diabetes based on various health indicators.
-
 ## Next steps
-I would like to further tune the models by leveraging hyperparameter tuning.
-Since the current dataset is imbalanced, I will continue to explore other balancing techniques, such as SMOTE and SMOTEENN, to resample it.
-I will continue to build models using the Artificial Neural Network (ANN) and compare their performance to that of supervised ML models.
 
 ## Outline of project
 #### Link to notebook 1 

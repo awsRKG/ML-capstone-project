@@ -27,9 +27,11 @@ My main goal is to develop and evaluate various machine learning models, includi
 
 ## Results
 
-### Exploratory Data Analysis to discover which features are most predictive of malignant type
+
 
 ## Next steps
+
+I would try to find a larger dataset with thousands of data points to evaluate the models built. With the bigger datasets, I will try hyper-parameter tuning and cross validation of the models.
 
 ## Outline of project
 #### Link to notebook 1 

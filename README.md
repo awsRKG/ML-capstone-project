@@ -26,14 +26,18 @@ The dataset includes an ID number, diagnosis (malignant or benign), and thirty r
 My main goal is to develop and evaluate various machine learning models, including Logistic Regression, Support Vector Machines, Random Forest Classification, Naive Bayes etc for predicting whether breast cancer is malignant or benign. I will evaluate the performance of each model to determine the best-performing model for our task.The model demonstrating the highest performance will be leveraged to classify breast tumor images.
 
 ## Results
-
-
+I have the accuracy scores generated for each of the classification model : 
+Logistic Regression Accuracy is  95.90643274853801 %
+SVC Accuracy is  96.49122807017544 %
+Naive Bayes Accuracy is  94.15204678362574 %
+Decision Tree Regression Accuracy is  90.64327485380117 %
 
 ## Next steps
+Generate the confusion matrix for each model to understand the performance better and for better comparisons.
+I will explore using other types of Scalers
+I would like to try Random Forest Classifier as well.
 
-I would try to find a larger dataset with thousands of data points to evaluate the models built. With the bigger datasets, I will try hyper-parameter tuning and cross validation of the models.
 
-## Outline of project
 #### Link to notebook 1 
 
 ## Contact and Further Information

@@ -39,7 +39,7 @@ I would like to try Random Forest Classifier as well.
 
 
 #### Link to notebook 1 
-
+https://github.com/awsRKG/ML-capstone-project/tree/main/src
 ## Contact and Further Information
 
 ### References: 
